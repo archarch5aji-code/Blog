@@ -1,0 +1,92 @@
+.a {
+    background-image: url('./img/bgimg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.b {
+    background-image: url('./img/bg1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.c {
+    background-color: "#4b717e";
+    box-shadow: " rgba(0, 0, 0, 0.56) 0px 22px 70px 4px";
+}
+
+.d {
+    background-image: url('./img/add.jpg');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.e {
+    background-image: url('./img/view.jpg');
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.f {
+    background-image: url('./img/view.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.card1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lan {
+    background-image: url('./img/landing.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.hom {
+    background-image: url('./img/imggg.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+
+}
+
+.abo {
+    background-image: url('./img/imggg.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+
+}
+
+.abf {
+    background-image: url('./img/view.jpg');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.pro {
+    background-image: url('./img/imggg.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.e1 {
+    background-image: url('./img/view.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
